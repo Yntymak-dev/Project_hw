@@ -1,0 +1,45 @@
+D:\Ынтымак\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Ынтымак\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Ынтымак\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Ынтымак\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+F:\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+F:\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+F:\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+F:\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+F:\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+F:\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+F:\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+D:\VS project\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\VS project\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\VS project\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\VS project\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
