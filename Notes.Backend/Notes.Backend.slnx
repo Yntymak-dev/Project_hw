@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Notes.Applicationn/Notes.Applicationn.csproj" />
+    <Project Path="notes.domainn/notes.domainn.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="note.presintance/note.presintance.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Note.Wep.API/Note.Wep.API.csproj" />
+  </Folder>
+  <Folder Name="/Tests/" />
+</Solution>
